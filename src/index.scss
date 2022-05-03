@@ -1,0 +1,14 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+$height: 40px;
+$width: 120px;
+
+body {
+    font: 100% $font-stack;
+    color: $primary-color;
+}
+
+button {
+    height: $height;
+    width: $width;
+}
